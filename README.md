@@ -1,6 +1,6 @@
 # tampermonkey-from-local
 Give TamperMonkey access to a directory on your local machine.
-Scripts can be edited and version-controlled locally, in this directory.
+Scripts can be edited and version-controlled locally, in that directory.
 And they can be updated in TamperMonkey though the usual graphical interface.
 
 This script automatizes the steps of [this tutorial](https://gist.github.com/DerDemystifier/2950519cbbdfefc900614384a57433c4) for a Linux system.
